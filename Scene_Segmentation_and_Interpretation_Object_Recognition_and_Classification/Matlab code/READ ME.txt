@@ -1,0 +1,5 @@
+# Includes Matlab code and REPORT
+
+* Be sure about the paths in the directory.
+* Change the path where PR tools and VL feat is used in the code
+* Change the storing place of the descriptors and .mat files according to your system.
